@@ -4,6 +4,9 @@
 End-to-end **data analytics solution** designed to identify high-risk policyholders, track claims trends, and analyze policy adjustments using **synthetic insurance data**.  
 Highlights the power of **Python for data generation** and **Power BI for interactive dashboards**.
 
+### Dashboard Preview  
+![Insurance Dashboard](https://github.com/srishtisharma44/Insurance-Claims-Risk-Analysis/blob/main/Dashboard.png)  
+
 ---
 
 ## Project Overview  
@@ -53,9 +56,6 @@ A structured progression from synthetic dataset creation to an interactive, deci
 ---
 
 ## Interactive Preview & Dataset  
-
-### Dashboard Preview  
-![Insurance Dashboard](https://github.com/srishtisharma44/Insurance-Claims-Risk-Analysis/blob/main/Dashboard.png)  
 
 ### Project Demo Video  
 [Click here to watch the Dashboard Demo](https://github.com/srishtisharma44/Insurance-Claims-Risk-Analysis/blob/main/Demo.gif)  
